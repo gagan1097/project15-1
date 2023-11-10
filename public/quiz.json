@@ -1,0 +1,57 @@
+[
+    {
+        "id": "01",
+        "question" : "Capital of Canada?",
+        "options": [
+            "Ottawa",
+            "Vancouver",
+            "Toronto",
+            "Calgary"
+        ],
+        "answer": "Ottawa"
+    },
+    {
+        "id": "02",
+        "question" : "National Animal of Canada?",
+        "options": [
+            "Lion",
+            "Coyote",
+            "Beaver",
+            "Tiger"
+        ],
+        "answer": "Beaver"
+    },
+    {
+        "id": "03",
+        "question" : "Most visited spot in Canada?",
+        "options": [
+            "Niagra Falls",
+            "Toronto Downtown",
+            "Calgary Zoo",
+            "West Edmonton Mall"
+        ],
+        "answer": "Niagra Falls"
+    },
+    {
+        "id": "04",
+        "question" : "Currency used in Canada?",
+        "options": [
+            "CAD",
+            "USD",
+            "INR",
+            "AUD"
+        ],
+        "answer": "CAD"
+    },
+    {
+        "id": "05",
+        "question" : "Car of the year 2023?",
+        "options": [
+            "Civic",
+            "Ioniq",
+            "Corolla",
+            "Discovery"
+        ],
+        "answer": "Ioniq"
+    }
+]
